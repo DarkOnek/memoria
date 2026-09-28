@@ -47,3 +47,15 @@ CATEGORIAS FINALES (fáciles de rankear + misma temática + CPA USA):
 
 Keywords base por categoría: [nombre] + payment proof / legit / does it pay / bonus / review
 Estado: Categorías cerradas. Siguiente paso = definir 5 keywords finales para Surveys.
+
+
+
+KEYWORDS FINALES V1.0 (20-09-28):
+1. payment proof - Baja búsqueda / Muy baja competencia / Conversión altísima
+2. is it legit - Alta búsqueda / Baja competencia / Conversión alta
+3. does it pay - Media búsqueda / Muy baja competencia / Conversión alta
+4. bonus - Media búsqueda / Media competencia / Conversión altísima
+5. how much does it pay - Media búsqueda / Baja competencia
+
+Total Fase 1: 5 keywords x 10 categorías = 50 páginas
+Estructura plantilla: [app]- [keyword]
