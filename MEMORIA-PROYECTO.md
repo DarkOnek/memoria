@@ -25,3 +25,15 @@ Agregador estilo Survey Spotter + SEO Programático + CPA Legal
 
 ### Estado
 Plan acordado. Esperando definir keywords.
+
+10 CATEGORÍAS FINALES PROPUESTAS:1. Paid Surveys (base)
+Ofertas: Swagbucks, Toluna, Prime Opinion - CPA: $2-$4 por registro USA2. Get Paid To Play Games
+Ofertas: Mistplay, JustPlay, Freecash - CPA: $3-$8 por instalación - MUY fácil de posicionar3. Cashback & Receipt Scanning Apps
+Ofertas: Ibotta, Fetch Rewards, Shopkick - CPA: $2-$5 - Palabras "Ibotta payment proof" nadie las ataca4. Get Paid To Walk / Fitness
+Ofertas: Sweatcoin, StepSetGo - CPA: $1-$3 - Competencia bajísima5. Get Paid To Watch Ads / Videos
+Ofertas: InboxDollars, HideoutTV - CPA: $2-$36. Product Testing / Review
+Ofertas: Testbirds, UserTesting - CPA: $4-$6 - Palabras "does UserTesting pay"7. Micro Tasks / Small Jobs
+Ofertas: Clickworker, Remotasks, Amazon MTurk - CPA: $2-$48. Selling Stuff Apps
+Ofertas: Decluttr, Mercari, Poshmark - CPA: $3-$59. Get Paid To Read / Scan
+Ofertas: Shopkick (scan), Fetch - Fácil long tail "is Shopkick legit"10. AI Tools That Pay You To Try
+Ofertas: Freecash AI tasks, JumpTask - CPA: $5-$10 - Es lo nuevo, 0 competencia ahora mismo
